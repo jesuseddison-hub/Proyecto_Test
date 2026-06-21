@@ -15,3 +15,7 @@ env/
 *.log
 # Iniciar el servicio del agente (si no está activo)
 # Iniciar el servicio del agente (si no está activo).pub
+node_modules/
+.vscode/
+*.log
+.DS_Store
