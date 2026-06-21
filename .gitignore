@@ -13,3 +13,5 @@ env/
 
 # Logs
 *.log
+# Iniciar el servicio del agente (si no está activo)
+# Iniciar el servicio del agente (si no está activo).pub
